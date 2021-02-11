@@ -32,43 +32,6 @@ const config: MenuEntry[] = [
     href: 'https://pancakeswap.finance/syrup'
   },
   {
-    label: 'Lottery',
-    icon: 'TicketIcon',
-    href: 'https://pancakeswap.finance/lottery'
-  },
-  {
-    label: 'NFT',
-    icon: 'NftIcon',
-    href: 'https://pancakeswap.finance/nft'
-  },
-  {
-    label: 'Info',
-    icon: 'InfoIcon',
-    items: [
-      {
-        label: 'Overview',
-        href: 'https://pancakeswap.info'
-      },
-      {
-        label: 'Tokens',
-        href: 'https://pancakeswap.info/tokens'
-      },
-      {
-        label: 'Pairs',
-        href: 'https://pancakeswap.info/pairs'
-      },
-      {
-        label: 'Accounts',
-        href: 'https://pancakeswap.info/accounts'
-      }
-    ]
-  },
-  {
-    label: 'IFO',
-    icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo'
-  },
-  {
     label: 'More',
     icon: 'MoreIcon',
     items: [
@@ -78,15 +41,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Github',
-        href: 'https://github.com/pancakeswap'
+        href: 'https://github.com/mdrezaislamLsvswap'
       },
       {
-        label: 'Docs',
-        href: 'https://docs.pancakeswap.finance'
-      },
-      {
-        label: 'Blog',
-        href: 'https://pancakeswap.medium.com'
+        label: 'Facebook',
+        href: 'https://Facebook.com/LitecoinSv'
       }
     ]
   }
